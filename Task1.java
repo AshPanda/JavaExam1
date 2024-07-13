@@ -25,7 +25,5 @@ public class Task1 {
         } catch (NumberFormatException ex) {
             System.out.println("Вы ввели не верное значение, введите положительные цифры");
         }
-
-
     }
 }
