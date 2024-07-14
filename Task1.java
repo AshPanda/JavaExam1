@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Task1 {
     public static void main(String[] args) {
-        int idealFenceLength = 346;
+        int idealFenceLength = 15 / 3 * 62 + 3 * 12;
         System.out.println("Введите длину забора в сантиметрах:");
         Scanner userInput = new Scanner(System.in);
         final String input = userInput.nextLine();
